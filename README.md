@@ -161,6 +161,6 @@ For example, if a book is returned 3 days late, the fine is 15 units.
 The Library Management System demonstrates how MySQL can organize library data and manage book circulation. It provides a foundation for developing a complete library application with a frontend and backend in the future.
 
 ## Author Details
-- **Name:** 
-- **Domain:** 
-- **Internship ID:** 
+- **Name:** KURUBA CHANDRAMOULI 
+- **Domain:** SQL
+- **Internship ID:** CITS9354
